@@ -1,8 +1,8 @@
 {
   "type": "forge:add_features",
   "biomes": [
-    "minecraft:snowy_plains",
-    "minecraft:snowy_taiga",
+    "minecraft:grove",
+    "minecraft:jagged_peaks",
     "minecraft:snowy_beach",
     "minecraft:snowy_slopes"
   ],

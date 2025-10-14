@@ -1,19 +1,14 @@
 {
   "type": "forge:add_features",
   "biomes": [
-    "minecraft:windswept_hills",
-    "minecraft:windswept_gravelly_hills",
-    "minecraft:windswept_forest",
-    "minecraft:stony_shore",
-    "minecraft:taiga",
-    "minecraft:snowy_taiga",
-    "minecraft:old_growth_pine_taiga",
-    "minecraft:old_growth_spruce_taiga",
-    "minecraft:jungle",
-    "minecraft:bamboo_jungle",
-    "minecraft:grove",
     "minecraft:jagged_peaks",
-    "minecraft:frozen_peaks"
+    "minecraft:savanna_plateau",
+    "minecraft:stony_peaks",
+    "minecraft:stony_shore",
+    "minecraft:windswept_forest",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_savanna"
   ],
   "features": "slab_topographic:stone_slab",
   "step": "fluid_springs"

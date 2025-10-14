@@ -1,6 +1,10 @@
 {
   "type": "forge:add_features",
-  "biomes": "#minecraft:is_overworld",
+  "biomes": [
+    "minecraft:beach",
+    "minecraft:snowy_beach",
+    "minecraft:desert"
+  ],
   "features": "slab_topographic:sand_slab_water",
   "step": "fluid_springs"
 }

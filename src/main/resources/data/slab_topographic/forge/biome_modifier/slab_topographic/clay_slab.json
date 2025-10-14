@@ -1,11 +1,8 @@
 {
   "type": "forge:add_features",
   "biomes": [
-    "minecraft:river",
-    "minecraft:frozen_river",
-    "minecraft:beach",
-    "minecraft:snowy_beach",
     "minecraft:swamp",
+    "minecraft:river",
     "minecraft:mangrove_swamp"
   ],
   "features": "slab_topographic:clay_slab",

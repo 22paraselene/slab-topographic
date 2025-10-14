@@ -2,11 +2,18 @@
   "type": "forge:add_features",
   "biomes": [
     "minecraft:beach",
-    "minecraft:snowy_beach",
-    "minecraft:desert",
-    "minecraft:badlands",
-    "minecraft:eroded_badlands",
-    "minecraft:wooded_badlands"
+    "minecraft:cold_ocean",
+    "minecraft:deep_cold_ocean",
+    "minecraft:deep_frozen_ocean",
+    "minecraft:deep_lukewarm_ocean",
+    "minecraft:deep_ocean",
+    "minecraft:frozen_river",
+    "minecraft:lukewarm_ocean",
+    "minecraft:mangrove_swamp",
+    "minecraft:ocean",
+    "minecraft:river",
+    "minecraft:swamp",
+    "minecraft:warm_ocean"
   ],
   "features": "slab_topographic:sand_slab",
   "step": "fluid_springs"

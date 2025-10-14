@@ -1,14 +1,15 @@
 {
   "type": "forge:add_features",
   "biomes": [
-    "minecraft:river",
-    "minecraft:frozen_river",
     "minecraft:beach",
-    "minecraft:snowy_beach",
-    "minecraft:windswept_hills",
-    "minecraft:windswept_gravelly_hills",
+    "minecraft:jagged_peaks",
+    "minecraft:savanna_plateau",
+    "minecraft:stony_peaks",
+    "minecraft:stony_shore",
     "minecraft:windswept_forest",
-    "minecraft:stony_shore"
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_savanna"
   ],
   "features": "slab_topographic:gravel_slab",
   "step": "fluid_springs"
