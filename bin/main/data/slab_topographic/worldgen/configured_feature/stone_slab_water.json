@@ -1,0 +1,12 @@
+{
+  "type": "simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:stone_slab",
+        "Properties": { "waterlogged": "true" }
+      }
+    }
+  }
+}

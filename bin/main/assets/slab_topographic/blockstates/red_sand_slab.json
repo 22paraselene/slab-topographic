@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "slab_topographic:block/red_sand_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/red_sand"
+    },
+    "type=top": {
+      "model": "slab_topographic:block/red_sand_slab_top"
+    }
+  }
+}

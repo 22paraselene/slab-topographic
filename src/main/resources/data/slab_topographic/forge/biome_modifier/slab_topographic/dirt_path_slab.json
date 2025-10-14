@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "slab_topographic:dirt_path_slab",
+  "step": "top_layer_modification"
+}

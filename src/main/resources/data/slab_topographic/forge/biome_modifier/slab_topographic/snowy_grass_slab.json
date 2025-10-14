@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:snowy_plains",
+    "minecraft:snowy_taiga",
+    "minecraft:snowy_beach",
+    "minecraft:snowy_slopes"
+  ],
+  "features": "slab_topographic:snowy_grass_slab",
+  "step": "underground_decoration"
+}

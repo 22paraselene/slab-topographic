@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "$",
+    "#"
+  ],
+  "key": {
+    "$": {
+      "item": "minecraft:snowball"
+    },
+    "#": {
+      "item": "minecraft:grass_block"
+    }
+  },
+  "result": {
+    "item": "slab_topographic:snowy_grass_slab"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "slab_topographic:block/mycelium_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/mycelium"
+    },
+    "type=top": {
+      "model": "slab_topographic:block/mycelium_slab_top"
+    }
+  }
+}
