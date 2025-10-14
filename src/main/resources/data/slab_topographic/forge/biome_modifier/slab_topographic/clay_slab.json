@@ -5,8 +5,9 @@
     "minecraft:frozen_river",
     "minecraft:beach",
     "minecraft:snowy_beach",
-    "minecraft:stony_shore"
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp"
   ],
-  "features": "slab_topographic:gravel_slab_water",
+  "features": "slab_topographic:clay_slab",
   "step": "fluid_springs"
 }

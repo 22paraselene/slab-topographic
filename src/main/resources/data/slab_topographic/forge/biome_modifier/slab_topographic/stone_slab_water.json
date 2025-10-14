@@ -1,6 +1,10 @@
 {
   "type": "forge:add_features",
-  "biomes": "#minecraft:is_overworld",
+  "biomes": [
+    "minecraft:stony_shore",
+    "minecraft:river",
+    "minecraft:frozen_river"
+  ],
   "features": "slab_topographic:stone_slab_water",
   "step": "fluid_springs"
 }
