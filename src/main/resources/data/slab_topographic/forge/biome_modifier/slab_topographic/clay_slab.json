@@ -1,10 +1,6 @@
 {
   "type": "forge:add_features",
-  "biomes": [
-    "minecraft:swamp",
-    "minecraft:river",
-    "minecraft:mangrove_swamp"
-  ],
+  "biomes": "#minecraft:is_overworld",
   "features": "slab_topographic:clay_slab",
-  "step": "fluid_springs"
+  "step": "top_layer_modification"
 }

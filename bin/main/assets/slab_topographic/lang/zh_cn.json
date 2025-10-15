@@ -1,6 +1,5 @@
 {
   "item.slab_topographic.stone_slab": "石头台阶",
-  "item.slab_topographic.snowy_grass_slab": "覆雪草方块台阶",
   "item.slab_topographic.sand_slab": "沙子台阶",
   "item.slab_topographic.red_sand_slab": "红沙台阶",
   "item.slab_topographic.podzol_slab": "灰化土台阶",
@@ -8,10 +7,9 @@
   "item.slab_topographic.gravel_slab": "砂砾台阶",
   "item.slab_topographic.grass_slab": "草方块台阶",
   "item.slab_topographic.dirt_slab": "泥土台阶",
-  "item.slab_topographic.dirt_path_slab": "泥土小径台阶",
+  "item.slab_topographic.dirt_path_slab": "土径台阶",
   "item.slab_topographic.clay_slab": "粘土台阶",
   "block.slab_topographic.stone_slab": "石头台阶",
-  "block.slab_topographic.snowy_grass_slab": "覆雪草方块台阶",
   "block.slab_topographic.sand_slab": "沙子台阶",
   "block.slab_topographic.red_sand_slab": "红沙台阶",
   "block.slab_topographic.podzol_slab": "灰化土台阶",
@@ -19,7 +17,7 @@
   "block.slab_topographic.gravel_slab": "砂砾台阶",
   "block.slab_topographic.grass_slab": "草方块台阶",
   "block.slab_topographic.dirt_slab": "泥土台阶",
-  "block.slab_topographic.dirt_path_slab": "泥土小径台阶",
+  "block.slab_topographic.dirt_path_slab": "土径台阶",
   "block.slab_topographic.clay_slab": "粘土台阶",
   "modmenu.descriptionTranslation.slab_topographic": "为各种生物群系添加自然生成的台阶"
 }

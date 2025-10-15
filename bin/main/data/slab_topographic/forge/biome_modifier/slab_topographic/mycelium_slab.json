@@ -1,8 +1,6 @@
 {
   "type": "forge:add_features",
-  "biomes": [
-    "minecraft:mushroom_fields"
-  ],
+  "biomes": "minecraft:mushroom_fields",
   "features": "slab_topographic:mycelium_slab",
   "step": "fluid_springs"
 }

@@ -1,6 +1,5 @@
 {
   "item.slab_topographic.stone_slab": "Stone Slab",
-  "item.slab_topographic.snowy_grass_slab": "Snowy Grass Slab",
   "item.slab_topographic.sand_slab": "Sand Slab",
   "item.slab_topographic.red_sand_slab": "Red Sand Slab",
   "item.slab_topographic.podzol_slab": "Podzol Slab",
@@ -11,7 +10,6 @@
   "item.slab_topographic.dirt_path_slab": "Dirt Path Slab",
   "item.slab_topographic.clay_slab": "Clay Slab",
   "block.slab_topographic.stone_slab": "Stone Slab",
-  "block.slab_topographic.snowy_grass_slab": "Snowy Grass Slab",
   "block.slab_topographic.sand_slab": "Sand Slab",
   "block.slab_topographic.red_sand_slab": "Red Sand Slab",
   "block.slab_topographic.podzol_slab": "Podzol Slab",

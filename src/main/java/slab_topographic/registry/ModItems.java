@@ -11,11 +11,11 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, slab_topographic.MODID);
 
-    // 草台阶物品
+    // 草方块台阶物品
     public static final RegistryObject<Item> GRASS_SLAB_ITEM = ITEMS.register("grass_slab",
             () -> new BlockItem(ModBlocks.GRASS_SLAB.get(), new Item.Properties()));
 
-    // 覆雪草台阶物品
+    // 覆雪草方块台阶物品
     public static final RegistryObject<Item> SNOWY_GRASS_SLAB_ITEM = ITEMS.register("snowy_grass_slab",
             () -> new BlockItem(ModBlocks.SNOWY_GRASS_SLAB.get(), new Item.Properties()));
 

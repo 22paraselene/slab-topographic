@@ -1,11 +1,6 @@
 {
   "type": "forge:add_features",
-  "biomes": [
-    "minecraft:old_growth_pine_taiga",
-    "minecraft:old_growth_spruce_taiga",
-    "minecraft:snowy_taiga",
-    "minecraft:taiga"
-  ],
+  "biomes": "#minecraft:is_overworld",
   "features": "slab_topographic:podzol_slab",
   "step": "fluid_springs"
 }

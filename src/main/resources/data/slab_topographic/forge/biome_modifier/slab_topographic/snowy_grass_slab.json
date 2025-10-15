@@ -1,11 +1,16 @@
 {
   "type": "forge:add_features",
   "biomes": [
+    "minecraft:frozen_peaks",
+    "minecraft:frozen_river",
     "minecraft:grove",
+    "minecraft:ice_spikes",
     "minecraft:jagged_peaks",
     "minecraft:snowy_beach",
-    "minecraft:snowy_slopes"
+    "minecraft:snowy_plains",
+    "minecraft:snowy_slopes",
+    "minecraft:snowy_taiga"
   ],
   "features": "slab_topographic:snowy_grass_slab",
-  "step": "underground_decoration"
+  "step": "underground_ores"
 }

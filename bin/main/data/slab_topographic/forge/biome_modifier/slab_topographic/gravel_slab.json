@@ -1,16 +1,6 @@
 {
   "type": "forge:add_features",
-  "biomes": [
-    "minecraft:beach",
-    "minecraft:jagged_peaks",
-    "minecraft:savanna_plateau",
-    "minecraft:stony_peaks",
-    "minecraft:stony_shore",
-    "minecraft:windswept_forest",
-    "minecraft:windswept_gravelly_hills",
-    "minecraft:windswept_hills",
-    "minecraft:windswept_savanna"
-  ],
+  "biomes": "#minecraft:is_overworld",
   "features": "slab_topographic:gravel_slab",
-  "step": "fluid_springs"
+  "step": "vegetal_decoration"
 }
