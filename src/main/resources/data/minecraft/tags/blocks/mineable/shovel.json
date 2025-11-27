@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "slab_topographic:grass_slab",
+    "slab_topographic:snowy_grass_slab",
+    "slab_topographic:sand_slab",
+    "slab_topographic:red_sand_slab",
+    "slab_topographic:dirt_path_slab",
+    "slab_topographic:gravel_slab",
+    "slab_topographic:podzol_slab",
+    "slab_topographic:mycelium_slab",
+    "slab_topographic:clay_slab",
+    "slab_topographic:dirt_slab"
+  ]
+}

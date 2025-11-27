@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "slab_topographic:block/dirt_path_slab_snow"
+    },
+    "type=top": {
+      "model": "slab_topographic:block/dirt_path_slab_top_snow"
+    },
+    "type=double": {
+      "model": "slab_topographic:block/dirt_path_slab_double_snow"
+    }
+  }
+}
